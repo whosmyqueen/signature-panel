@@ -17,3 +17,6 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.whosmyqueen:SignPad:1.0.0'
 	}
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=whosmyqueen/signature-panel&type=date&legend=top-left)](https://www.star-history.com/#whosmyqueen/signature-panel&type=date&legend=top-left)
